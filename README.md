@@ -5,11 +5,9 @@
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)
-![Instagram followers](https://img.shields.io/instagram/followers/anmol098?label=Follow&style=social)
 ![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
 ![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 <!--
 **hudaputrasantosa/hudaputrasantosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
