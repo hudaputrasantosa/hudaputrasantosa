@@ -2,7 +2,7 @@
 <p><em>I'am Student College Software Engineering at <a href="https://ittelkom-pwt.ac.id/" target="_blank">Institut Teknologi Telkom Purwokerto</a>
 </em></p>
 <!--- ### Hi there, I'm [Anurag!](https://anuraghazra.github.io) 👋 --->
-
+<i> Follow my Social media :</i>
 <a href="https://codesandbox.io/u/anuraghazra">
   <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
@@ -15,12 +15,13 @@
 
 <br />
 <br />
-
-- 🔭 I’m currently working on [renderless-components](https://github.com/timelessco/renderless-components)
-- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
-
-**Languages and Tools:**  
+<b> About Me : </b>
+<ul>
+<li> I’m currently working on [renderless-components](https://github.com/timelessco/renderless-components) </li>
+<li> I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) </li>
+<li> Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues) </li>
+</ul>
+<b> Languages and Tools : </b> 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
