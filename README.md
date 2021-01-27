@@ -5,14 +5,14 @@
 👈🏻<i> Follow my Social media </i>
 <!--- ### Hi there, I'm [Anurag!](https://anuraghazra.github.io) 👋 --->
 
-<a href="https://instagram.com/hudazackyvee_6661">
-  <img align="left" alt="Huda Putra Santosa | Instagram" width="24px" src="ikon/instagram.png" target="_blank" />
+<a href="https://instagram.com/hudazackyvee_6661" target="_blank">
+  <img align="left" alt="Huda Putra Santosa | Instagram" width="24px" src="ikon/instagram.png" />
 </a>
-<a href="https://twitter.com/hudaputras">
-  <img align="left" alt="Huda Putra Santosa | Twitter" width="24px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" target="_blank" />
+<a href="https://twitter.com/hudaputras" target="_blank">
+  <img align="left" alt="Huda Putra Santosa | Twitter" width="24px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg"  />
 </a>
-<a href="https://facebook.com/profile.php?id=100031071102567">
-  <img align="left" alt="Huda Putra Santosa | Facebook" width="24px" src="ikon/facebook.png" target="_blank" />
+<a href="https://facebook.com/profile.php?id=100031071102567" target="_blank">
+  <img align="left" alt="Huda Putra Santosa | Facebook" width="24px" src="ikon/facebook.png"  />
 </a>
 <br />
 <br />
