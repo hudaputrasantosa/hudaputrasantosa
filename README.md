@@ -1,4 +1,4 @@
-<h3>Hi there i'am Huda Putra Santosa as Software Engineer Junior 👋 </h3>
+<h2>Hi there i'am <a href"github.com/hudaputrasantosa">Huda Putra Santosa</a> as Software Engineer Junior 👋 </h2>
 
 <p><em>I'am Student College Software Engineering at <a href="https://ittelkom-pwt.ac.id/" target="_blank">Institut Teknologi Telkom Purwokerto</a>
 </em></p>
@@ -6,13 +6,13 @@
 <!--- ### Hi there, I'm [Anurag!](https://anuraghazra.github.io) 👋 --->
 
 <a href="https://instagram.com/hudazackyvee_6661">
-  <img align="left" alt="Huda Putra Santosa | Instagram" width="20px" src="ikon/instagram.png" />
+  <img align="left" alt="Huda Putra Santosa | Instagram" width="20px" src="ikon/instagram.png" target="_blank" />
 </a>
 <a href="https://twitter.com/hudaputras">
-  <img align="left" alt="Huda Putra Santosa | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img align="left" alt="Huda Putra Santosa | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" target="_blank" />
 </a>
 <a href="https://facebook.com/profile.php?id=100031071102567">
-  <img align="left" alt="Huda Putra Santosa | Facebook" width="21px" src="ikon/facebook.png" />
+  <img align="left" alt="Huda Putra Santosa | Facebook" width="21px" src="ikon/facebook.png" target="_blank" />
 </a>
 <br />
 <br />
