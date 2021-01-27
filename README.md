@@ -1,5 +1,7 @@
-<h1>Hi there 👋</h1>
-<h4>i'am Huda Putra Santosa as Software Engineer Junior</h4>
+<h1>Hi there 👋 <br>
+i'am Huda Putra Santosa as Software Engineer Junior
+</h1>
+
 <p><em>I'am Student College Software Engineering at <a href="https://ittelkom-pwt.ac.id/" target="_blank">Institut Teknologi Telkom Purwokerto</a>
 </em></p>
 <i> Follow my Social media </i>
