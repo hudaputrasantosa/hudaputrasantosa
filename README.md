@@ -1,4 +1,4 @@
-<h2>Hi there, i'am [Huda Putra Santosa](github.com/hudaputrasantosa) as Software Engineer Junior 👋🏻 </h2>
+## Hi there, i'am [Huda Putra Santosa](github.com/hudaputrasantosa) as Software Engineer Junior 👋 
 
 <p><em>I'am Student College Software Engineering at <a href="https://ittelkom-pwt.ac.id/" target="_blank">Institut Teknologi Telkom Purwokerto</a>
 </em></p>
