@@ -2,7 +2,7 @@
 
 <p><em>I'am Student College Software Engineering at <a href="https://ittelkom-pwt.ac.id/" target="_blank">Institut Teknologi Telkom Purwokerto</a>
 </em></p>
-👈🏻<i> Follow my Social media </i>
+👈🏻<p> Follow my Social media </p>
 <!--- ### Hi there, I'm [Anurag!](https://anuraghazra.github.io) 👋 --->
 
 <a href="https://instagram.com/hudazackyvee_6661" target="_blank">
