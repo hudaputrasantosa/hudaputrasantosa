@@ -1,17 +1,18 @@
-<h1>Hi there i'am Huda Putra Santosa 👋 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
+<h1>Hi there 👋</h1>
+<h4>i'am Huda Putra Santosa as Software Engineer Junior</h4>
 <p><em>I'am Student College Software Engineering at <a href="https://ittelkom-pwt.ac.id/" target="_blank">Institut Teknologi Telkom Purwokerto</a>
 </em></p>
 <i> Follow my Social media </i>
 <!--- ### Hi there, I'm [Anurag!](https://anuraghazra.github.io) 👋 --->
 
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+<a href="https://instagram.com/hudazackyvee_6661">
+  <img align="left" alt="Huda Putra Santosa | Instagram" width="20px" src="ikon/instagram.png" />
 </a>
-<a href="https://twitter.com/orangdalam31">
-  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<a href="https://twitter.com/hudaputras">
+  <img align="left" alt="Huda Putra Santosa | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-<a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+<a href="https://facebook.com/VK4k3Br">
+  <img align="left" alt="Huda Putra Santosa | Facebook" width="21px" src="ikon/facebook.png" />
 </a>
 
 <br />
