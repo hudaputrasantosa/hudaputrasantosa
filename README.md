@@ -1,10 +1,7 @@
 ## Hi there, i'am [Huda Putra Santosa](github.com/hudaputrasantosa) as Software Engineer Junior 👋 
 
-<p><em>I'am Student College Software Engineering at </em><a href="https://ittelkom-pwt.ac.id/" target="_blank">Institut Teknologi Telkom Purwokerto</a>
-</p>
+<p><em>I'am Student College Software Engineering at </em><a href="https://ittelkom-pwt.ac.id/" target="_blank">Institut Teknologi Telkom Purwokerto</a></p>
 <p>👇 Follow my Social media</p>
-<!--- ### Hi there, I'm [Anurag!](https://anuraghazra.github.io) 👋 --->
-
 <a href="https://instagram.com/hudazackyvee_6661" target="_blank">
   <img align="left" alt="Huda Putra Santosa | Instagram" width="24px" src="ikon/instagram.png" />
 </a>
@@ -31,6 +28,4 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/java/java.png"></code>
 <br><br>
-<p align="center"> Terima Kasih Sudah Berkunjung Di Profilku ✌😁 </p>
-
-<!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+<p align="center"> Thank You for visit My Profil Github ✌😁 </p>
