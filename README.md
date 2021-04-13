@@ -11,6 +11,9 @@
 <a href="https://facebook.com/profile.php?id=100031071102567" target="_blank">
   <img align="left" alt="Huda Putra Santosa | Facebook" width="24px" src="ikon/facebook.png"  />
 </a>
+<a href="https://www.linkedin.com/in/huda-putra-santosa" target="_blank">
+  <img align="left" alt="Huda Putra Santosa | Linkedin" width="25px" src="ikon/linkedin.png" />
+</a>
 <br />
 <br />
 <b> About Me : </b>
