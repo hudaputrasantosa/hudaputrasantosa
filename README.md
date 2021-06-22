@@ -1,6 +1,6 @@
-## Hi there, i'am [Huda Putra Santosa](github.com/hudaputrasantosa) as Software Engineer Junior 👋 
+## Hi there, i am [Huda Putra Santosa](github.com/hudaputrasantosa) as Software Engineer Junior 👋 
 
-<p><em>I'am Student College Software Engineering at </em><a href="https://ittelkom-pwt.ac.id/" target="_blank">Institut Teknologi Telkom Purwokerto</a></p>
+<p><em>I'm Student College Software Engineering at </em><a href="https://ittelkom-pwt.ac.id/" target="_blank">Institut Teknologi Telkom Purwokerto</a></p>
 <p>Follow my Social media</p>
 <a href="https://instagram.com/hudazackyvee_6661" target="_blank">
   <img align="left" alt="Huda Putra Santosa | Instagram" width="24px" src="ikon/instagram.png" />
