@@ -20,8 +20,7 @@
 <b> About Me : </b>
 <ul>
 <li> I’m working as content creator on medium https://hudaputrasantosa.medium.com </li>
-<li> I’m opening service at http://javaservice-it.herokuapp.com/</li>
-  <li> Ask me about anything at<a href"https://github.com/hudaputrasantosa"> Github </a> </li>
+  <li> Ask me about anything @ <a href"https://github.com/hudaputrasantosa"> Github </a> </li>
 </ul>
 
 <b> Languages and Tools : </b> <br>
