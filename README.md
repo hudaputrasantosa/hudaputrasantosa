@@ -3,7 +3,7 @@
 <b> About Me </b>
 <ul>
 <li> I’m content creator on medium https://hudaputrasantosa.medium.com </li>
-  <li> I'm opening service IT at http://javaservice-it.herokuapp.com/ </li>
+<!--   <li> I'm opening service IT at http://javaservice-it.herokuapp.com/ </li> -->
 </ul>
 
 <b> Languages and Tools : </b> <br>
