@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=hudaputrasantosa&color=026efa&label=Profile+Visit)
+![](https://komarev.com/ghpvc/?username=hudaputrasantosa&color=026efa&label=Visitor)
 <h1 align="center"> Hi there, Nice to meet you 👋 </h1>
 <p align="center"> Hello folks! My Name is <b>Huda Putra Santosa</b> and i am Web Developer Enthusiast, I also content creator on medium</p>
 <!--   <li> I'm opening service IT at http://javaservice-it.herokuapp.com/ </li> -->
