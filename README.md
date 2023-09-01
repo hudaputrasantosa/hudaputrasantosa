@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=hudaputrasantosa&color=026efa&label=Visitor)
 <h1 align="center"> Hi there, Nice to meet you 👋 </h1>
-<p align="center"> Hello folks! My Name is <b>Huda Putra Santosa</b> and i am Web Developer Enthusiast, I also content creator on medium</p>
+<!-- <p align="center"> My Name <b>Huda Putra Santosa</b> and i am Web Developer Junior</p> -->
 <!--   <li> I'm opening service IT at http://javaservice-it.herokuapp.com/ </li> -->
 <h3 align="center"> Find Me! </h3> 
 <p align="center">
@@ -14,7 +14,6 @@
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-F05032?style=flat-square&logo=laravel&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-4b4b4b?style=flat-square&logo=Express&logoColor=white" />
   <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-007ACC?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
