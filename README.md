@@ -2,7 +2,7 @@
 <h1 align="center"> Hi there, Nice to meet you 👋 </h1>
 <!-- <p align="center"> My Name <b>Huda Putra Santosa</b> and i am Web Developer Junior</p> -->
 <!--   <li> I'm opening service IT at http://javaservice-it.herokuapp.com/ </li> -->
-<h3 align="center"> Find Me! </h3> 
+<h3 align="center"> Connect with Me! </h3> 
 <p align="center">
 <a align="center" href="https://www.linkedin.com/in/huda-putra-santosa" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://hudaputrasantosa.medium.com" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="https://hudaputrasantosa.github.io" target="_blank"><img alt="Portofolio" src="https://img.shields.io/badge/Portofolio-d11111.svg?&style=for-the-badge&logo=dribbble&logoColor=white" /></a>
@@ -20,7 +20,6 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />  
 </p>
-<br>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hudaputrasantosa&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
 
 <!-- ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hudaputrasantosa&hide=scss&layout=compact&theme=tokyonight)
